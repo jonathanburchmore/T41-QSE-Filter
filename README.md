@@ -1,6 +1,7 @@
 # 5-Band Switching QSE Filter for T41 v11 and Older
 ![v1 Assembled](Images/V1_Assembled.jpg)
 
+## Overview
 This project is an automatically switched, 5-band filter board for V11 and older of the T41-EP.  Installed between the QSE and PA boards, these filters reduce harmonics that cause distortion in the PA output that cannot be removed by the output filter board.
 
 This board is compatible with the V11 and older band switch signaling and uses a similar design to the V11 and older filter board.  The 10m filter is always active, and the 80, 40, 20 and 15 meter filters are switched in and out using relays.  With the current filter design, the 10m filter does introduce some insertion loss (see Insertion Loss below).
