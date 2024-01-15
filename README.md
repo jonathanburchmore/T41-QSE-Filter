@@ -28,7 +28,7 @@ The PCB design is 2-layer and the RF traces are not impedance matched.  Despite 
 
 ![SWR through 35MHz](Images/PCB_SWR.png)
 
-Nevertheless, as can be seen from the filter sweeps above, most of the filters demonstrate approximately 3db of loss.  This is largely due to the presence of the 10m filter, which, as can be seen in the trace above, has a sizeable dip between 5-20MHz.  This characteristic is visible in simulation of the filter so is not due to the construction or part tolerances, and the impact on the other filters has been observed by bypassing the 10m filter.
+Nevertheless, as can be seen from the filter sweeps above, most of the filters demonstrate approximately 3db of loss.  This is largely due to the presence of the 10m filter, which, as can be seen in the sweep under Filter Characteristics, has a sizeable dip between 5-20MHz.  This characteristic is visible in simulation of the filter so is not due to the construction or part tolerances, and the impact on the other filters has been observed by bypassing the 10m filter.
 
 In the scans below, the 20m filter is shown first with the 10m filter bypassed, and then with it present (note that the trace has a -20dBm offset):
 
