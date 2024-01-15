@@ -22,7 +22,7 @@ The following filter sweeps include the 10m filter in place so they reflect the 
 ![10m LPF](Images/10m_LPF.png)
 
 ## Insertion Loss
-The PCB design is 2-layer and the RF traces are not impedance matched.  Nevertheless, the board itself shows negligible insertion loss and a relatively flat SWR through 35MHz.
+The PCB design is 2-layer and the RF traces are not impedance matched.  Despite this, the board itself shows negligible insertion loss and a relatively flat SWR through 35MHz.
 
 ![Insertion Loss thru 50MHz](Images/PCB_Insertion_Loss.png)
 
