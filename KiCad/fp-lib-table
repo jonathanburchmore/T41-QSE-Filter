@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "QSE Filter")(type "KiCad")(uri "${KIPRJMOD}/QSE Filter.pretty")(options "")(descr ""))
+)
