@@ -145,7 +145,7 @@
   (net 54 "unconnected-(J4-Pin_9-Pad9)")
   (net 55 "unconnected-(J4-Pin_10-Pad10)")
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 01589e32-4951-4d53-bb90-a808f09c76e1)
     (at 110.5 78.25 -90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -199,7 +199,7 @@
     )
   )
 
-  (footprint "DigiKey:INDC2015X152N" (layer "F.Cu")
+  (footprint "QSE Filter:INDC2015X152N" (layer "F.Cu")
     (tstamp 03c43b35-8d51-44dd-a9e1-c6b1484ee3e5)
     (at 134.75 90.055001 90)
     (property "Sheetfile" "QSE Filter.kicad_sch")
@@ -238,7 +238,7 @@
       (net 38 "Net-(C16-Pad1)") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.102) (tstamp e0a8b638-c017-4159-906c-d534d27ea91f))
   )
 
-  (footprint "DigiKey:IND_1008CS_COC" (layer "F.Cu")
+  (footprint "QSE Filter:IND_1008CS_COC" (layer "F.Cu")
     (tstamp 04d12413-4009-4e41-a735-da532f625615)
     (at 113.75 109.25)
     (tags "1008CS-820XGLB ")
@@ -308,7 +308,7 @@
       (net 41 "Net-(C32-Pad1)") (pinfunction "2") (pintype "passive") (tstamp bfd02401-4bd8-41a7-8afe-8b04debdf5e2))
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 061c4a95-271b-4792-b340-e88ca8a6a47f)
     (at 117.75 89.5)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -362,7 +362,7 @@
     )
   )
 
-  (footprint "Diode_SMD:D_SOD-323" (layer "F.Cu")
+  (footprint "QSE Filter:D_SOD-323" (layer "F.Cu")
     (tstamp 0c168afd-b6af-42b3-b42f-470ca4a4c251)
     (at 110.25 101.75 -90)
     (descr "SOD-323")
@@ -432,7 +432,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 1422180a-fc34-4604-a24e-b316dc354bbf)
     (at 121.5 105 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -486,7 +486,7 @@
     )
   )
 
-  (footprint "Diode_SMD:D_SOD-323" (layer "F.Cu")
+  (footprint "QSE Filter:D_SOD-323" (layer "F.Cu")
     (tstamp 15e09226-5921-4419-a1ed-3fb4c245d30a)
     (at 110.25 70.75 -90)
     (descr "SOD-323")
@@ -556,7 +556,7 @@
     )
   )
 
-  (footprint "DigiKey:IND_1008CS_COC" (layer "F.Cu")
+  (footprint "QSE Filter:IND_1008CS_COC" (layer "F.Cu")
     (tstamp 15f360a6-137c-4145-b75f-0337d4ccd390)
     (at 119.5 109.25)
     (tags "1008CS-820XGLB ")
@@ -626,7 +626,7 @@
       (net 13 "Net-(C32-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 55379525-8a2a-4417-b55a-351777839359))
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 1647b909-c41b-42e8-aa35-2a1b964785ba)
     (at 113.75 89.5)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -680,7 +680,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 19ff604b-8588-49fc-a551-b02f1e2e50be)
     (at 117.847499 58.42)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -734,7 +734,7 @@
     )
   )
 
-  (footprint "DigiKey:CONN_RF2-04A-T-00-50-G_ADM" (layer "F.Cu")
+  (footprint "QSE Filter:CONN_RF2-04A-T-00-50-G_ADM" (layer "F.Cu")
     (tstamp 1dd1bcdb-403a-4591-90d9-12d1adac68f1)
     (at 135.96 54.21)
     (tags "RF2-04A-T-00-50-G ")
@@ -810,7 +810,7 @@
       (net 2 "GND") (tstamp a022bda4-c1a6-4ba8-88a9-3b8d7919760d))
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 1e0a4336-b36a-4791-9846-61bb7baa6b7e)
     (at 117.75 74)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -864,7 +864,7 @@
     )
   )
 
-  (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
+  (footprint "QSE Filter:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tstamp 1f154274-8f0a-411d-a843-6a79bb401d39)
     (at 81.25 118)
     (descr "Mounting Hole 3.2mm, no annular, M3")
@@ -885,7 +885,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers "*.Cu" "*.Mask") (tstamp c88ec646-de12-493f-9b56-cb48f3ba074a))
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 1f364740-6357-42c2-96f9-c62548c13dac)
     (at 137.75 86.5 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -939,7 +939,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 20bcb2ef-ed7c-4b7a-8379-ca20044a0ae6)
     (at 110.347499 51.17)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -993,7 +993,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 2216317a-35b6-4d48-be28-d47c0765600a)
     (at 117.25 101.75 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -1047,7 +1047,7 @@
     )
   )
 
-  (footprint "DigiKey:IND_1008CS_COC" (layer "F.Cu")
+  (footprint "QSE Filter:IND_1008CS_COC" (layer "F.Cu")
     (tstamp 2f4b7e38-1680-461d-b7f7-ea3ec2e83e8f)
     (at 119.5 62.67)
     (tags "1008CS-820XGLB ")
@@ -1117,7 +1117,7 @@
       (net 20 "Net-(C6-Pad1)") (pinfunction "2") (pintype "passive") (tstamp 79691e2e-69c5-45f0-9b21-ffc4438f82e8))
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 2fc8fd8b-248d-49a8-a410-6807e2da5587)
     (at 117.347499 55.17 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -1171,7 +1171,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 30345914-aaf5-4142-aca7-4b32fb56c4e5)
     (at 113.8 105)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -1225,7 +1225,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 3a8a3e49-956d-441c-83d3-5943276f1c91)
     (at 110.25 97.75)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -1279,7 +1279,7 @@
     )
   )
 
-  (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
+  (footprint "QSE Filter:SOT-23" (layer "F.Cu")
     (tstamp 55b72ff2-e963-4a3c-9dee-986a7ccb2b0d)
     (at 113.3125 101.75 180)
     (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
@@ -1341,7 +1341,7 @@
     )
   )
 
-  (footprint "DigiKey:IND_1008CS_COC" (layer "F.Cu")
+  (footprint "QSE Filter:IND_1008CS_COC" (layer "F.Cu")
     (tstamp 5816912c-ead9-4981-b9b5-f1739fc64248)
     (at 113.75 93.75)
     (tags "1008CS-820XGLB ")
@@ -1411,7 +1411,7 @@
       (net 40 "Net-(C25-Pad1)") (pinfunction "2") (pintype "passive") (tstamp 4c23bb3a-6617-4f43-a79d-2864fa5d49dc))
   )
 
-  (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
+  (footprint "QSE Filter:SOT-23" (layer "F.Cu")
     (tstamp 5f4c93d2-7885-476c-9684-4157bfbc5a39)
     (at 113.25 86.25 180)
     (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
@@ -1473,7 +1473,7 @@
     )
   )
 
-  (footprint "DigiKey:IND_1008CS_COC" (layer "F.Cu")
+  (footprint "QSE Filter:IND_1008CS_COC" (layer "F.Cu")
     (tstamp 63f1c92c-7d40-40a2-bbdb-bef710f3794e)
     (at 113.847499 62.67)
     (tags "1008CS-820XGLB ")
@@ -1543,7 +1543,7 @@
       (net 36 "Net-(C5-Pad1)") (pinfunction "2") (pintype "passive") (tstamp 7ee59cd2-a945-4430-be33-ea0319cba501))
   )
 
-  (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
+  (footprint "QSE Filter:SOT-23" (layer "F.Cu")
     (tstamp 643277a6-93ae-4099-9898-8d58b66400e7)
     (at 113.25 70.75 180)
     (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
@@ -1605,7 +1605,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 6800780e-b6ab-4f5c-b4fd-209ee3040c86)
     (at 113.75 74)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -1659,7 +1659,7 @@
     )
   )
 
-  (footprint "Diode_SMD:D_SOD-323" (layer "F.Cu")
+  (footprint "QSE Filter:D_SOD-323" (layer "F.Cu")
     (tstamp 68c0be6f-5821-4b2e-a919-a4a3d57ee5ba)
     (at 110.347499 55.17 -90)
     (descr "SOD-323")
@@ -1729,7 +1729,7 @@
     )
   )
 
-  (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 694bd23c-f14d-4602-b05a-4481ac3e1478)
     (at 120.23 55.15 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
@@ -1783,7 +1783,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 7bc24c33-1cc4-47c0-b495-d7291a134250)
     (at 117.25 86.25 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -1837,7 +1837,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 7bdf4094-8bcc-463b-b1e0-1be170848d60)
     (at 117.25 70.75 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -1891,7 +1891,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 7c4de354-f826-475e-8dfb-c47c37841c96)
     (at 117.75 105)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -1945,7 +1945,7 @@
     )
   )
 
-  (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical" (layer "F.Cu")
+  (footprint "QSE Filter:IDC-Header_2x05_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 83327282-c7ca-48ae-bf48-4da685ed90d5)
     (at 83.9181 96.38)
     (descr "Through hole IDC box header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0")
@@ -2059,7 +2059,7 @@
     )
   )
 
-  (footprint "Diode_SMD:D_SOD-323" (layer "F.Cu")
+  (footprint "QSE Filter:D_SOD-323" (layer "F.Cu")
     (tstamp 856ea60c-83a1-436f-b23f-83f1c61a85c7)
     (at 110.25 86.25 -90)
     (descr "SOD-323")
@@ -2129,7 +2129,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 90cb3f16-a815-4e59-9bcc-ebead75ee5ae)
     (at 122.75 78.25 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -2183,7 +2183,7 @@
     )
   )
 
-  (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 974eb3a0-f15a-4a07-be94-50b8c239c33d)
     (at 120.08 70.72 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
@@ -2237,7 +2237,7 @@
     )
   )
 
-  (footprint "DigiKey:EB2-12NU_KEM" (layer "F.Cu")
+  (footprint "QSE Filter:EB2-12NU_KEM" (layer "F.Cu")
     (tstamp 9bb8d0f8-4b22-498d-8c93-99c2b3e8b1d9)
     (at 101.7081 88.17)
     (tags "EB2-12NU ")
@@ -2408,7 +2408,7 @@
       (net 7 "Net-(D4-A)") (pinfunction "10") (pintype "unspecified") (tstamp 88016111-a0cb-4a23-8164-49f23a16a4ec))
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp a10fcdc0-0b7d-4450-98a4-984e6d9ebe06)
     (at 121.5 89.5 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -2462,7 +2462,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp a2dcf141-3d4c-44f8-9917-1fdc454bc999)
     (at 134.75 79.2 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -2516,7 +2516,7 @@
     )
   )
 
-  (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
+  (footprint "QSE Filter:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tstamp a6c1bb3d-657b-400d-8d9d-8d78e70ce3f4)
     (at 139 118)
     (descr "Mounting Hole 3.2mm, no annular, M3")
@@ -2537,7 +2537,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers "*.Cu" "*.Mask") (tstamp 07d59ac6-54d7-4ca2-855f-f99364e79c22))
   )
 
-  (footprint "DigiKey:IND_1008CS_COC" (layer "F.Cu")
+  (footprint "QSE Filter:IND_1008CS_COC" (layer "F.Cu")
     (tstamp aa4ce679-03f5-43a5-98ac-05a320cad71e)
     (at 119.5 93.75)
     (tags "1008CS-820XGLB ")
@@ -2607,7 +2607,7 @@
       (net 32 "Net-(C25-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 7b6c208d-5ed0-4bd7-a252-d972ae5f577d))
   )
 
-  (footprint "DigiKey:EB2-12NU_KEM" (layer "F.Cu")
+  (footprint "QSE Filter:EB2-12NU_KEM" (layer "F.Cu")
     (tstamp ad1f64be-518b-4482-8340-e6b8fe5d4584)
     (at 101.7081 103.67)
     (tags "EB2-12NU ")
@@ -2778,7 +2778,7 @@
       (net 9 "Net-(D5-A)") (pinfunction "10") (pintype "unspecified") (tstamp 14ec50ef-53b8-4531-8a5d-b5c730feb701))
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp b0ed27d6-80bb-44d4-b63b-e351ec95e3ee)
     (at 122.75 109.3 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -2832,7 +2832,7 @@
     )
   )
 
-  (footprint "DigiKey:CONN_RF2-04A-T-00-50-G_ADM" (layer "F.Cu")
+  (footprint "QSE Filter:CONN_RF2-04A-T-00-50-G_ADM" (layer "F.Cu")
     (tstamp b27a94b5-5d01-4b21-95fb-070c742c154b)
     (at 135.71 67.96)
     (tags "RF2-04A-T-00-50-G ")
@@ -2908,7 +2908,7 @@
       (net 2 "GND") (tstamp 8e4a36de-04e3-4abd-98fc-2bc9ed979599))
   )
 
-  (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:R_0805_2012Metric" (layer "F.Cu")
     (tstamp b3e067a8-10bc-452b-a9a8-ff783e4d59dd)
     (at 120.32 86.28 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
@@ -2962,7 +2962,7 @@
     )
   )
 
-  (footprint "DigiKey:IND_1008CS_COC" (layer "F.Cu")
+  (footprint "QSE Filter:IND_1008CS_COC" (layer "F.Cu")
     (tstamp ba7e6af2-2c5e-4a4a-bf04-dcd5fea165f6)
     (at 113.75 78.25)
     (tags "1008CS-820XGLB ")
@@ -3032,7 +3032,7 @@
       (net 37 "Net-(C11-Pad1)") (pinfunction "2") (pintype "passive") (tstamp 96ff859f-006b-425f-85c7-7def80a46d93))
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp baad2f77-eb78-41f3-bfb0-74881b11c3e4)
     (at 110.597499 62.67 -90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -3086,7 +3086,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp bdfca674-8be8-4401-bd18-bc7eef0bc36f)
     (at 110.25 66.75)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -3140,7 +3140,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp c207d85b-4f39-47c7-a0d8-92dcc587c748)
     (at 110.5 93.75 -90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -3194,7 +3194,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp c2a253f4-6c4b-442e-8f64-4215ac868bb2)
     (at 113.877499 58.42)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -3248,7 +3248,7 @@
     )
   )
 
-  (footprint "DigiKey:IND_1008CS_COC" (layer "F.Cu")
+  (footprint "QSE Filter:IND_1008CS_COC" (layer "F.Cu")
     (tstamp c32b8616-3931-4464-861e-052c6fd2d8ac)
     (at 119.5 78.25)
     (tags "1008CS-820XGLB ")
@@ -3318,7 +3318,7 @@
       (net 27 "Net-(C11-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 1eee7f12-d4c9-4c7d-90bd-f4899bd021e5))
   )
 
-  (footprint "DigiKey:EB2-12NU_KEM" (layer "F.Cu")
+  (footprint "QSE Filter:EB2-12NU_KEM" (layer "F.Cu")
     (tstamp c54f19c5-382f-44bd-ad67-b0c53d1cbad7)
     (at 101.7081 72.67)
     (tags "EB2-12NU ")
@@ -3489,7 +3489,7 @@
       (net 5 "Net-(D2-A)") (pinfunction "10") (pintype "unspecified") (tstamp 763b8104-b72f-4640-8dc3-7ee82dc131e6))
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp c67dca93-db1d-4975-b0d0-b12f52c7b433)
     (at 121.597499 58.42 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -3543,7 +3543,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp c7f0b6e7-0a81-4e7c-afe5-962863939765)
     (at 134.75 93.45 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -3597,7 +3597,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp c91efea7-0209-483e-ba03-348f8f0cf43e)
     (at 91.5 61.3 -90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -3651,7 +3651,7 @@
     )
   )
 
-  (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:R_0805_2012Metric" (layer "F.Cu")
     (tstamp cef8033c-f01a-44d2-a5ba-adfb9381042e)
     (at 120.21 101.75 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
@@ -3705,7 +3705,7 @@
     )
   )
 
-  (footprint "DigiKey:EB2-12NU_KEM" (layer "F.Cu")
+  (footprint "QSE Filter:EB2-12NU_KEM" (layer "F.Cu")
     (tstamp d0700177-fb72-4a9d-81d5-d1f61b34982c)
     (at 101.6662 57.17)
     (tags "EB2-12NU ")
@@ -3876,7 +3876,7 @@
       (net 3 "Net-(D1-A)") (pinfunction "10") (pintype "unspecified") (tstamp a19abe56-dd07-4048-9c31-210e8ed71e96))
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp d3a1aa30-761e-4dd5-9ca8-c34ac45fc29a)
     (at 122.75 62.67 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -3930,7 +3930,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp d5b29241-a576-49b9-b487-a6454a4b331b)
     (at 121.5 74 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -3984,7 +3984,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp dac404f0-e063-4442-9fdd-d68c72f132b4)
     (at 110.25 82.25)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -4038,7 +4038,7 @@
     )
   )
 
-  (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
+  (footprint "QSE Filter:SOT-23" (layer "F.Cu")
     (tstamp db00816e-cca3-4939-bd0c-dffd1f92edb1)
     (at 113.347499 55.17 180)
     (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
@@ -4100,7 +4100,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp e4803816-25a1-4d25-9d8d-eda8a6f84ef0)
     (at 110.5 109.25 -90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -4154,7 +4154,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp e80e5ac6-9211-4d1c-a556-04af47944e26)
     (at 137.75 82.5 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -4208,7 +4208,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp ec144044-e62a-40db-817d-762ca515598e)
     (at 137.75 90.2 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -4262,7 +4262,7 @@
     )
   )
 
-  (footprint "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical" (layer "F.Cu")
+  (footprint "QSE Filter:IDC-Header_2x08_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp f448fb28-b1e3-4165-9246-f630bd909f42)
     (at 83.9181 55.3)
     (descr "Through hole IDC box header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0")
@@ -4388,7 +4388,7 @@
     )
   )
 
-  (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
+  (footprint "QSE Filter:C_0805_2012Metric" (layer "F.Cu")
     (tstamp f691a4e2-74e7-4839-8366-4d997dbe1413)
     (at 122.75 93.8 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
@@ -4442,7 +4442,7 @@
     )
   )
 
-  (footprint "DigiKey:IND_1008CS_COC" (layer "F.Cu")
+  (footprint "QSE Filter:IND_1008CS_COC" (layer "F.Cu")
     (tstamp fe572c72-bcf9-4379-bf1d-7eb305648cea)
     (at 134.75 82.45 90)
     (tags "1008CS-820XGLB ")
