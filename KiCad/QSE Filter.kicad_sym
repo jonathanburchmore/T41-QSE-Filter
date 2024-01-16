@@ -643,6 +643,18 @@
         (name "Ext" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
+      (pin passive line (at 0 -5.08 90) (length 2.54) hide
+        (name "Ext" (effects (font (size 0 0))))
+        (number "3" (effects (font (size 0 0))))
+      )
+      (pin passive line (at 0 -5.08 90) (length 2.54) hide
+        (name "Ext" (effects (font (size 0 0))))
+        (number "4" (effects (font (size 0 0))))
+      )
+      (pin passive line (at 0 -5.08 90) (length 2.54) hide
+        (name "Ext" (effects (font (size 0 0))))
+        (number "5" (effects (font (size 0 0))))
+      )
     )
   )
   (symbol "EB2-12NU" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
