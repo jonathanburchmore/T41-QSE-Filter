@@ -6,6 +6,7 @@
 
   (title_block
     (title "T41-EP QSE Filter")
+    (rev "2")
     (company "Jonathan Burchmore KN6LFB")
   )
 
@@ -2482,20 +2483,20 @@
     (property "Datasheet" "CD74HC4002PWR" (at 27.94 175.26 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (pin "8" (uuid f51ebdf6-926a-4501-a14d-1b6e225534b7))
-    (pin "13" (uuid 7bdc7c38-74a3-4c5b-b81a-239fc427347b))
-    (pin "10" (uuid d7a3ed3b-6f2e-4df6-81ce-9961df8625f2))
     (pin "1" (uuid 6825570e-64e2-4f3f-9134-fc165e8bff28))
-    (pin "7" (uuid b4452fdd-14e9-48db-9ab8-d3b994385010))
+    (pin "10" (uuid d7a3ed3b-6f2e-4df6-81ce-9961df8625f2))
     (pin "11" (uuid 2e119954-97f6-4e99-b3cf-5d8a4f14f3fa))
+    (pin "12" (uuid 5ad0e1c5-7f6d-4c3d-99f1-76b2f65c25d3))
+    (pin "13" (uuid 7bdc7c38-74a3-4c5b-b81a-239fc427347b))
     (pin "14" (uuid c8aa1753-f713-4e87-a967-0c9e6ca84117))
+    (pin "2" (uuid c60c3d55-9773-4a24-9e3f-dc379fae49b0))
+    (pin "3" (uuid bbaa7d13-26d9-4291-a686-a217b8eafb10))
     (pin "4" (uuid 8b50ecc6-7ac9-4d21-977c-6f9a0ecdfd00))
     (pin "5" (uuid 692c8341-8267-4872-9719-8b478b560430))
     (pin "6" (uuid 5d28bd71-ee94-496b-a681-454821fadca3))
-    (pin "2" (uuid c60c3d55-9773-4a24-9e3f-dc379fae49b0))
-    (pin "12" (uuid 5ad0e1c5-7f6d-4c3d-99f1-76b2f65c25d3))
+    (pin "7" (uuid b4452fdd-14e9-48db-9ab8-d3b994385010))
+    (pin "8" (uuid f51ebdf6-926a-4501-a14d-1b6e225534b7))
     (pin "9" (uuid 912d8e3b-eddf-467d-ae31-f5fa43b7dd00))
-    (pin "3" (uuid bbaa7d13-26d9-4291-a686-a217b8eafb10))
     (instances
       (project "QSE Filter"
         (path "/b28f1b93-0af5-4c88-9c0f-380c30d9bbd3"
@@ -3095,8 +3096,8 @@
     (property "Datasheet" "~" (at 87.63 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 4fe0e95f-2486-483b-98c1-1cb3c34d77fd))
     (pin "1" (uuid b38a1a61-4fea-46b4-880b-dea8efe882a5))
+    (pin "2" (uuid 4fe0e95f-2486-483b-98c1-1cb3c34d77fd))
     (instances
       (project "QSE Filter"
         (path "/b28f1b93-0af5-4c88-9c0f-380c30d9bbd3"
@@ -3148,9 +3149,9 @@
     )
     (pin "1" (uuid ca471d8d-02a8-4a02-bbbe-5a0242db26d2))
     (pin "2" (uuid 14b4128c-6eaa-43c6-a345-2aaa209f6c36))
-    (pin "5" (uuid f3ffb3d1-3227-46e9-a767-466067501abb))
-    (pin "4" (uuid 0d7a1179-be7d-4d1c-bb6f-64a70f7d938f))
     (pin "3" (uuid 14995c38-3b33-40f1-a7d1-22758d72f592))
+    (pin "4" (uuid 0d7a1179-be7d-4d1c-bb6f-64a70f7d938f))
+    (pin "5" (uuid f3ffb3d1-3227-46e9-a767-466067501abb))
     (instances
       (project "QSE Filter"
         (path "/b28f1b93-0af5-4c88-9c0f-380c30d9bbd3"
@@ -3332,9 +3333,9 @@
     )
     (pin "1" (uuid d0c350f6-4b27-4116-be07-1c3b1cb15fed))
     (pin "2" (uuid a5b1c036-0f6f-46e2-a730-3ccd49989690))
-    (pin "5" (uuid 6635b8b3-30d6-4472-8c86-53c2bd4a9603))
     (pin "3" (uuid 296ce89e-6876-4713-be42-f8b9aa72a150))
     (pin "4" (uuid ae3fb9b1-1015-4fad-ad67-9a1d17b395b0))
+    (pin "5" (uuid 6635b8b3-30d6-4472-8c86-53c2bd4a9603))
     (instances
       (project "QSE Filter"
         (path "/b28f1b93-0af5-4c88-9c0f-380c30d9bbd3"
